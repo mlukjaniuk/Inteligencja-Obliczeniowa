@@ -1,0 +1,51 @@
+Workplace AI: How artificial intelligence will transform the workday
+
+The rise of generative AI in the workplace is inevitable. There's a lot to be excited about it.
+
+Artificial intelligence has been around for years, but scarcely has it found itself in conversation as much as it has now. The launch of OpenAI's ChatGPT rocketed generative AI onto the radar of many people who hadn't been paying much attention or didn't feel it was relevant to their lives. This has included workers, who've already been touched by the technology, whether they know it or not.
+
+The chatbot, which uses machine learning to respond to user prompts, is helping workers write cover letters and resumes, generate ideas and even art in the workplace and more. It's already making a splash in hiring with recruiters, who are finding they need to adapt to the new technology. And as competing companies rush to launch similar tools, the technology will only get stronger and more sophisticated.
+
+Although some workers fear being replaced by AI, experts say the technology may actually have the power to positively impact workers' daily lives and skill sets, and even improve the overall work economy. BBC Worklife spoke with experts about what to expect from AI now and in the future workplace.
+
+Expanding daily ideas and solutions
+
+One of ChatGPT's main abilities is that it can function like a personal assistant given a prompt, it generates text based on natural language processing to give you an accessible, readable response. Along with providing information and answers, it can also aid knowledge workers to analyse and expand their work. 
+
+"It can help you brainstorm and generate new ideas", says Carl Benedikt Frey, future of work director at Oxford University. In his own field of academia, for instance, he's seen it test for counterarguments to a thesis, and write an abstract for research. "You can ask it to generate a tweet to promote your paper", he adds. "There are tremendous possibilities". For knowledge workers, this could mean creating an outline for a blog and a social media post to go with it, distil complex topics for a target audience, plan a business-trip itinerary in a new city or predict a project's cost and timeline.
+
+For many users, ChatGPT functions as a sounding board a tool to bounce ideas off, rather than create them. "I generate ideas all the time, and ask AI to do supplements on it", says Ethan Mollick, an associate professor at the University of Pennsylvania, US, who studies AI and innovation. "I use it to help me process information, to summarize stuff for me, very much as a partner".
+
+There's a lot of potential for workers to step outside of the box with the assistance of generative AI, whether it's improving their daily workflows, or developing long-term projects and goals.
+
+Increasing accuracy and correcting biases
+
+AI also has the power to catch some issues people might overlook. This can mean a range of things - for instance, spotting inaccuracies in text, checking code or even circumventing biases and prejudices workers may not even be aware they have.
+
+An analyst interpreting a set of data, for instance, might be able to identify a confirmation bias in their work, meaning they look for evidence to support an outcome they already believe exists. AI can interpret data impartially, and provide a more detailed, big picture analysis, explains Anna Salomons, professor at Utrecht University School of Economics, Netherlands.
+
+The technology is far from perfect, but can currently lay the foundation for workers to see outcomes and solutions outside their personal experiences, opening up opportunities for impartiality and inclusion across myriad fields and sectors. And experts say the AI will only get better at this. 
+
+"The ability to more quickly and better diagnose problems", says Salomons, won't replace expertise while AI can identify problems, humans still need to correct them. But generative AI can identify these issues faster and often more accurately than humans alone. 
+
+Plus, as ChatGPT and other machine learning models are constantly updating and advancing as their datasets become broader, the technology means being able to catch biases, mistakes and errors at the cutting edge.
+
+Adding new jobs and careers
+
+One of the primary worries about AI is that it will take workers' jobs at a staggering rate. Some data confirms that, indeed, this technology will affect a swath of jobs; in March, Goldman Sachs reported that AI could replace the equivalent of 300 million full-time jobs. Yet experts say not to worry about being displaced quite yet and that, perhaps, this shift could even create new job opportunities.
+
+Traditionally, says Mollick, "automation disruptions result in a lot of chaos in the short term, and then more jobs in the long term". This chimes with 2021 research Salomons co-authored, which showed 60% of jobs done today didn't exist in 1940. Industrialisation and automation, she says, led to entire new industries from cars to computers, and added new jobs from drivers to web designers in the process.
+
+Although we aren't yet able to know if the trend will continue, emerging data is beginning to show positive signs for new positions and even entire careers. The proliferation of AI is already increasing the demand for jobs including data analysts and scientists who work with the technology to create best practices in the workplace. According to the 2023 World Economic Forum's Future of Jobs Report, AI and machine learning specialists are the fastest growing job fields. 
+
+Pushing workers into AI fluency 
+
+While some workers are diving into the technology wholeheartedly, others may find it scary to begin engaging with AI. Yet generative AI will be in the workplace and experts say its prevalence will push workers into using the technology, so they don't fall behind.
+
+"What I keep emphasizing to people is to just start using this", says Mollick. As workers get increasing fluent, he adds, they can find themselves ahead of the curve, and at a distinct advantage in the workplace.
+
+Workers resistant to AI could be seen as unwilling or incapable of adapting, says Frey. "I think workers that don't work with AI are going to find their skills [become] obsolete quite rapidly. So, therefore, it's imperative to work with AI to stay employed, stay productive and have up to date skills".
+
+As AI becomes a more core part of the workday, Frey says this push into fluency means workers will be better equipped to utilize it as a supplement to their current skill set. Familiarity with this technology also set them up to grow and develop those skills quickly.
+
+Ultimately, AI is growing fast, and its full potential has yet to be realized. But many experts are hopeful there's a big upside, enabling workers to innovate quickly and evolve their skills. "Ideally we want to use these technologies to create new products, new industries, new lines of work", says Frey. "I think that is the challenge going forward to actually use AI to generate new and previously inconceivable things".
