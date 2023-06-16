@@ -1,0 +1,1 @@
+Zadania z laboratoriów i projekty z przedmiotu Inteligencja Obliczeniowa (II rok, semestr 4)
